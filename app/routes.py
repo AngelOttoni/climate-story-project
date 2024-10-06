@@ -10,5 +10,3 @@ def index():
 def get_co2_data():
     data = {'message': "CO2 data will be here"}
     return jsonify(data)
-
-#app/routes.py
