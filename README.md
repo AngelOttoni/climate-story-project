@@ -163,7 +163,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 <div align="center">
     <a href="https://www.linkedin.com/in/angelica-lima-75204a224/" target="_blank">👩🏽‍🚀 Angélica Lima</a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/angelina-meiras-ottoni/" target="_blank">👩🏻‍🚀 Angelina Meiras</a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/d%C3%A9bora-campos-34515a1b9/" target="_blank">👩🏽‍🚀 Débora Campos</a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/d%C3%A9bora-campos-34515a1b9/" target="_blank">👩🏽‍🚀 Débora Campos</a>&nbsp;&nbsp;<br>
     <a href="https://www.linkedin.com/in/maryllian-vieira-dev/" target="_blank">👩🏽‍🚀 Maryllian Vieira</a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/nicolydrummond/" target="_blank">👩🏻‍🚀 Nicoly Drummond</a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/patriciaalcantara2/" target="_blank">👩🏽‍🚀 Patrícia Alcântara</a><br><br>  
