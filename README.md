@@ -160,6 +160,15 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
   <h3 style="color:#349193;">By: Solaris Team 🚀👩🏻‍🚀👩🏻‍🚀👩🏽‍🚀👩🏽‍🚀👩🏽‍🚀👩🏾‍🚀</h3>
 </div>
 
+<div align="center">
+    <a href="https://www.linkedin.com/in/angelica-lima-75204a224/" target="_blank">Angélica Lima</a><br>
+    <a href="https://www.linkedin.com/in/angelina-meiras-ottoni/" target="_blank">Angelina Meiras</a><br>
+    <a href="https://www.linkedin.com/in/d%C3%A9bora-campos-34515a1b9/" target="_blank">Débora Campos</a><br>
+    <a href="https://www.linkedin.com/in/maryllian-vieira-dev/" target="_blank">Maryllian Vieira</a><br>
+    <a href="https://www.linkedin.com/in/nicolydrummond/" target="_blank">Nicoly Drummond</a><br>
+    <a href="https://www.linkedin.com/in/patriciaalcantara2/" target="_blank">Patrícia Alcântara</a> 
+  
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AngelOttoni/climate-story-project/main/app/static/img/solaris-team.jpeg" alt="Solaris Team" width="300">
