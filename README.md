@@ -6,17 +6,17 @@
 
 
 <font color='red'>**(Under development)**</font>
-# Our Solution
+# Our Solution 💡
 
 >The **Climate Story Project** is an interactive web application that provides visual data insights on climate change. This project aims to educate and engage users by presenting CO₂ concentration data, climate change impacts, and potential solutions in a clear and accessible way. The platform allows users to explore historical data, understand climate trends, and interact with visual representations of the data through charts and tables.
 
-# Goals
+# Goals 🎯
 
 - **Democratize access to information on climate change through an accessible**, intuitive and visually appealing platform.
 - Transform complex data into simple and understandable information, helping to combat **misinformation and fake news**, promoting greater environmental awareness.
 - Increase the **autonomy of the population** in understanding the impact of climate change, contributing to collective action.
 
-## Table of Contents
+## Table of Contents 📑
 
 - [Overview](#overview)
 - [Features](#features)
@@ -28,24 +28,24 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## Overview
+## Overview 🖥️
 
 Climate change is one of the most pressing issues of our time, and data is a critical tool in understanding its scope. Our project addresses the challenge of communicating complex climate data in an easy-to-understand format for the general public. The **Climate Story Project** focuses on the growing concentration of CO₂ in the atmosphere and its impact on global warming.
 
 By providing real-time data, historical comparisons, and visual charts, we aim to raise awareness and inspire action toward mitigating climate change.
 
-## Features
+## Features 🪧
 
 - **CO₂ Concentration Data**: Displays CO₂ levels from various years, allowing users to track changes over time.
 - **Interactive Charts**: Users can view charts that illustrate emissions data using Chart.js.
 - **Climate Impact Section**: Presents information on the impacts of rising CO₂ levels and offers insights into potential solutions.
 - **API Integration**: Real-time data retrieval from the back-end to display on the front-end in a user-friendly format.
 
-## Installation
+## Installation ⚙️
 
 To run the Climate Story Project locally, follow these steps:
 
-### Prerequisites
+### Prerequisites 📍
 
 Make sure you have the following installed:
 
@@ -92,7 +92,7 @@ Once the application is running, you can explore the following sections:
 
 The back-end Flask server serves API data to the front-end, which dynamically updates the charts and tables as new data becomes available.
 
-## Project Structure
+## Project Structure 🗂️
 
 ```plaintext
 climate-story-website/
@@ -110,7 +110,7 @@ climate-story-website/
 └── run.py                    # Runs the Flask application
 ```
 
-## API Endpoints 
+## API Endpoints 🔗
 
 The Climate Story Project uses a simple API to deliver CO₂ data to the front-end.
 
@@ -130,7 +130,7 @@ Example Response:
 }
 ```
 
-## Technologies Used
+## Technologies Used 🌐
 
 - **Python**: Programming language used for back-end development.
 - **Flask**: Micro-framework for web development.
@@ -138,7 +138,7 @@ Example Response:
 - **Chart.js**: For creating interactive charts to visualize data.
 - **HTML/CSS**: For structuring and styling the web pages.
 
-## Contributing
+## Contributing 👥
 
 We welcome contributions from the community! If you'd like to contribute, please follow these steps:
 
@@ -157,17 +157,16 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 <font color='#f0962a'>*Thank you for checking out the Climate Story Project! We hope this tool will help raise awareness and inspire action to combat climate change.*</font>
 
 <div align="center">
-  <h3 style="color:#349193;">By: Solaris Team 🚀👩🏻‍🚀👩🏻‍🚀👩🏽‍🚀👩🏽‍🚀👩🏽‍🚀👩🏾‍🚀</h3>
+  <h3 style="color:#349193;">By: Solaris Team 🚀⚝🌍☀️</h3>
 </div>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/angelica-lima-75204a224/" target="_blank">Angélica Lima</a><br>
-    <a href="https://www.linkedin.com/in/angelina-meiras-ottoni/" target="_blank">Angelina Meiras</a><br>
-    <a href="https://www.linkedin.com/in/d%C3%A9bora-campos-34515a1b9/" target="_blank">Débora Campos</a><br>
-    <a href="https://www.linkedin.com/in/maryllian-vieira-dev/" target="_blank">Maryllian Vieira</a><br>
-    <a href="https://www.linkedin.com/in/nicolydrummond/" target="_blank">Nicoly Drummond</a><br>
-    <a href="https://www.linkedin.com/in/patriciaalcantara2/" target="_blank">Patrícia Alcântara</a> 
-  
+    <a href="https://www.linkedin.com/in/angelica-lima-75204a224/" target="_blank">👩🏽‍🚀 Angélica Lima</a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/angelina-meiras-ottoni/" target="_blank">👩🏻‍🚀 Angelina Meiras</a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/d%C3%A9bora-campos-34515a1b9/" target="_blank">👩🏽‍🚀 Débora Campos</a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/maryllian-vieira-dev/" target="_blank">👩🏽‍🚀 Maryllian Vieira</a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/nicolydrummond/" target="_blank">👩🏻‍🚀 Nicoly Drummond</a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/patriciaalcantara2/" target="_blank">👩🏽‍🚀 Patrícia Alcântara</a><br><br>  
 </div>
 
 <p align="center">
