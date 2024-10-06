@@ -1,14 +1,31 @@
+
+/* Responsividade */
+@media (max-width: 600px) {
+    nav ul li {
+        display: block; /* Em telas pequenas, exibe os itens do menu em blocos */
+        margin: 10px 0; /* Espaço entre os itens */
+    }
+
+    table {
+        width: 90%; /* Aumenta a largura da tabela em telas pequenas */
+    }
+
+    h2 {
+        font-size: 1.5em; /* Ajusta o tamanho do título */
+    }
+}
+
 /* styles.css */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f9;
+    background-color: #f4f4f77a;
 }
 
 header {
-    background-color: #4CAF50;
-    padding: 20px;
+    background-color: #043df7c5;
+    padding: 15px;
     text-align: center;
     color: white;
 }
@@ -39,4 +56,92 @@ h2 {
 
 canvas {
     margin-top: 20px;
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+table {
+    width: 100%; /* Alterado para 100% para ocupar toda a largura do container */
+    max-width: 600px; /* Definido um max-width para manter a tabela mais fácil de ler */
+    border-collapse: collapse;
+    margin: 20px auto; /* Centralizado com margin auto */
+}
+
+th, td {
+    border: 1px solid #333;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 15px 0;
+  text-align: center;
+  font-size: 14px;  
+}
+
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  max-width: 1000px;
+  margin: 0 auto;
+
+  font-size: 1rem;
+}
+
+.footer-nav h3,
+.footer-social h3,
+.footer-copyright {
+  margin: 5px 0;
+}
+
+.footer-nav h3,
+.footer-social h3 {
+  font-size: 16px;
+  margin-bottom: 10px;
+  color: #f4f4f9;
+}
+
+.footer-nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-nav ul li {
+  margin: 5px 0;
+}
+
+.footer-nav ul li a {
+  color: #bbb;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.footer-nav ul li a:hover {
+  color: #fff;
+}
+
+.footer-social a {
+  color: #bbb;
+  text-decoration: none;
+  margin: 0 5px;
+  transition: color 0.3s;
+}
+
+.footer-social a:hover {
+  color: #fff;
+}
+
+.footer-copyright p {
+  font-size: 12px;
+  color: #bbb;
 }
