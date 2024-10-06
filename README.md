@@ -7,11 +7,3 @@
 ### **By: Solaris Team 🚀👩🏻‍🚀👩🏻‍🚀👩🏽‍🚀👩🏽‍🚀👩🏽‍🚀👩🏾‍🚀**
 
 [**Hackathon NASA Space Apps Recife 2024**](https://www.nasaspacerecife.com.br/)
-
-climate-story-website/
-    img/
-    index.html            
-    license
-    README.md
-    scripts.js
-    styles.css 
